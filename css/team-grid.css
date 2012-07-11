@@ -1,0 +1,62 @@
+.team:hover{
+	background-color: #D1D1D1;
+	cursor:pointer;
+}
+
+.team-logo{
+	height:50px;
+	position: relative;
+	left:5px;
+	top:5px;
+}
+
+.team{
+	width:270px;
+	border-style:solid;
+	border-width:1px;
+	float:left;
+	border-radius: 6px;
+	height:60px;
+	margin-left: 50px;
+	margin-top:20px;
+	background-color: white;
+}
+
+.team-description{
+	font-size:16px;
+	text-align:center;
+	float:right;
+	overflow: hidden;
+}
+
+.team-name{
+	font-weight:bold;
+	margin-top:10px;
+	margin-right:10px;
+}
+
+.week{
+	position:absolute;
+	left:50%;
+	width:700px;
+	margin-left:-350px;
+	border-style: solid;
+}
+
+.match{
+	height:100px;
+}
+
+.match:hover{
+	background-color:#DBDBDB;
+}
+
+.vs-text{
+	width:59px;
+	height:50px;
+	text-align: center;
+}
+
+.team-true{
+	background-color:#ACADAD !important;
+}
